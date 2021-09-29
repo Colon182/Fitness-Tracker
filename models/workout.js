@@ -16,7 +16,7 @@ const workoutSchema = new Schema(
           // TODO: For the schema of this attribute, define type and trim and required
           type: String,
           trim: true,
-          required: "Please specify resistance and cardio",
+          required: "Please specify resistance or cardio",
         },
         name: {
           // TODO: For the schema of this attribute, define type and trim and required
