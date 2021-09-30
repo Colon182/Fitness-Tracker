@@ -5,7 +5,7 @@ const db = require('../models');
 
 router.post('/api/workouts', (req, res) => {
 
-  db.Workout.create(req.body)
+  db.Workout.create({})
     .then((dbWorkout) => {
       res.json(dbWorkout);
     })
