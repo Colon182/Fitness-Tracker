@@ -2,8 +2,9 @@
   [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
   ## Description
   This application is meant to record workouts by entering in different excercises. It also gives you charts to display your workouts data.
-![FitnessTrackerHome](Assets/Fitness-Tracker-Home.png)
-![FitnessTrackerStats](Assets/Fitness-Tracker-Stats.png)
+
+![FitnessTrackerHome](assets/Fitness-Tracker-Home.png)
+![FitnessTrackerStats](assets/Fitness-Tracker-Stats.png)
   ## Table of Contents
   - [Usage](#usage)
   - [License](#license)
